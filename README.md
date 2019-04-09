@@ -1,16 +1,24 @@
-# color_converter
+# **Color Converter**
 
-A new Flutter project.
+A minimalist application made with flutter to convert hexadecimal colors to RGB colors and vise-versa for <a href="https://flutter.io/create">Flutter Create Competition</a>.
 
-## Getting Started
+## **How to Use**
 
-This project is a starting point for a Flutter application.
+- Enter hexadecimal color value in the text field(default is #000 i.e. Black) at center of screen and the converted values of R,G,B will appear on top of the screen.
 
-A few resources to get you started if this is your first Flutter project:
+- And to convert to hexadecimal Enter any R,G,B value(default is 0) and it will be automatically converted.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## **Package/s Used**
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+- <a href="https://pub.dartlang.org/packages/flutter_launcher_icons">flutter_launcher_icons</a>
+
+
+## **Developer Info**
+
+- <a href="https://github.com/hipoojan">Github</a>
+
+- <a href="https://www.facebook.com/poojan.pandya.58">Facebook</a>
+
+- <a href="https://www.instagram.com/hipoojan/">Instagram</a>
+
+- <a href="https://twitter.com/hipoojan">Twitter</a>
