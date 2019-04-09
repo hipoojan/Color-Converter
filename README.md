@@ -2,6 +2,12 @@
 
 A minimalist application made with flutter to convert hexadecimal colors to RGB colors and vise-versa for <a href="https://flutter.io/create">Flutter Create Competition</a>.
 
+## **Screenshot**
+
+<img src="ss.png"
+     alt="App Screenshot"
+     style="height: 550px" />
+
 ## **How to Use**
 
 - Enter hexadecimal color value in the text field(default is #000 i.e. Black) at center of screen and the converted values of R,G,B will appear on top of the screen.
