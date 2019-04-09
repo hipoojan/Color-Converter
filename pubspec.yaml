@@ -1,0 +1,28 @@
+name: color_converter
+description: A minimalist application made with flutter to convert hexadecimal colors to RGB colors and vise-versa.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter_launcher_icons:
+  flutter:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon" 
+  ios: true
+  image_path: "asset/wheel.png"
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+     - asset/loading.flr
+     - asset/wheel.png
