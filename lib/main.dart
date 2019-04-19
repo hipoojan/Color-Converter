@@ -3,6 +3,7 @@ import'package:flutter/services.dart';
 import "dart:typed_data";
 const String A = "0123456789abcdef";
 void main()=>runApp(MaterialApp(
+    debugShowCheckedModeBanner: false,
     theme:ThemeData(accentColor:Colors.white),
     home:Home())
   );
